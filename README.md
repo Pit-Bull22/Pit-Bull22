@@ -4,7 +4,6 @@ Bem-vindo ao meu perfil no GitHub! Sou formado em Análise e Desenvolvimento de 
 
 ## Sobre Mim
 
-- **Nome**: Rafael Santos
 - **Formado**: Análise e Desenvolvimento de Sistemas
 - **Cursando**: Engenharia de Software 1/7
 - **Paixões**: Tecnologia, Programação, Desenvolvimento de Software
